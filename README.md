@@ -3,3 +3,6 @@ HOW TO RUN
 2. cd wonton-bot
 3. Add your query in data.txt 
 4. php index.php
+
+Script by @zhen1112 :)
+Convert PHP to Python
